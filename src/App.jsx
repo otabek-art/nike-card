@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
-import Card from './components/Card/card'
-import Card2 from './components/Card/card2'
+import Card from './components/Card/Card'
+import Card2 from './components/Card/Card2'
 
 const App = () => {
   return (
